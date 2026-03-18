@@ -20,7 +20,7 @@ A full-stack dashboard to explore Aadhaar enrollment data with clean, filterable
 - **Filtering**: date range, state(s), district(s), search, age groups
 - **Accurate aggregates**: server-side computation for totals and exports
 - **Exports**: download totals by state and by district (Excel)
-- **Interactive charts**: trends, heatmaps, geographic bubble map, and advanced analytics panels
+- **Interactive charts**: trends, heatmaps, geographic bubble map, and advanced analytics panels,sunburst.
 
 ## Architecture at a glance
 - Frontend requests:
